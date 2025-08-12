@@ -1,4 +1,4 @@
-<img align='right' src='lab_qrcode.jpg' width=20% />
+<img align='right' src='feishu-group-qrcode.png' width=20% />
 
 ### Hi there 👋
 ✨Welcome to the <strong>Data Intelligence Lab @ HKU</strong>!✨
