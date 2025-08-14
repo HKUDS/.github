@@ -12,5 +12,7 @@
 <img src='https://img.shields.io/github/followers/hkuds?color=green&style=social' />
 
 <!--img align='right' src='feishu-group-qrcode.png' width=20% /-->
-<img src='feishu-group-qrcode.jpeg' width=20% />
-<img src='wechat-group-qrcode.jpeg' width=20% />
+<div style="display: flex; gap: 20px; align-items: center;">
+    <img src='feishu-group-qrcode.jpeg' width=20% />
+    <img src='wechat-group-qrcode.jpeg' width=20% />
+</div>
