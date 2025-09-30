@@ -13,5 +13,7 @@
 <img src='https://img.shields.io/github/followers/hkuds?color=green&style=social' />
 
 <!--img align='right' src='feishu-group-qrcode.png' width=20% /-->
-<img src="feishu.jpg" width="45%" style="display:inline-block;"/>
-<img src="weixin.jpg" width="34.4%" style="display:inline-block;"/>
+<p align="left">
+  <img src="feishu.jpg" width="45%">
+  <img src="weixin.jpg" width="34.4%">
+</p>
