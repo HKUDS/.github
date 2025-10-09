@@ -14,6 +14,6 @@
 
 <!--img align='right' src='feishu-group-qrcode.png' width=20% /-->
 <p align="left">
-  <img src="HKUDS_Code.png" width="60%">
+  <img src="QR.png" width="60%">
   <!-- <img src="weixin.jpg" width="34.4%"> -->
 </p>
