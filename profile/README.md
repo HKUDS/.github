@@ -10,7 +10,7 @@
 <a href='https://discord.gg/6TdQnT5xcF'><img src='https://discordapp.com/api/guilds/1296348098003734629/widget.png?style=shield'></a>
 <a href='lab_qrcode.jpg'><img src='https://img.shields.io/badge/公众号-orange' /></a>&nbsp;
 <img src='https://img.shields.io/github/stars/hkuds?color=green&style=social' />&nbsp;
-<img src='https://img.shields.io/github/followers/hkuds?color=green&style=social' />
+<img src='https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/hkuds&query=$.followers&label=Followers&color=green&logo=github&style=social' />
 
 <!--img align='right' src='feishu-group-qrcode.png' width=20% /-->
 <p align="left">
